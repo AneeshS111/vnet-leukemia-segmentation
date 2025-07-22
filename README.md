@@ -25,9 +25,7 @@ A PyTorch-based implementation of **V-Net** for semantic segmentation of white b
 
 ## 🏗️ Model Architecture
 
-<p align="center">
-  <img src="C:\Users\Aneesh\OneDrive\Desktop\Engineering\6th sem\Main proj" alt="VNet Architecture" width="600"/>
-</p>
+![download](https://github.com/user-attachments/assets/df6fea41-48ec-4470-bb2c-ffc9ecefb588)
 
 - Adapted **V-Net** for 2D medical image segmentation  
 - Uses **3x3 convolutions**, **ELU** activation, and skip connections  

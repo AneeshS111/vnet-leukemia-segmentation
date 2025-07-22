@@ -99,7 +99,7 @@ Main project/
 
 | Input Image | Ground Truth | Predicted Mask |
 |-------------|--------------|----------------|
-| (![image](https://github.com/user-attachments/assets/2255ff7e-07fb-4253-8867-34eda4e5932c) | (![image](https://github.com/user-attachments/assets/57bc692b-ea78-44ea-b425-c845e18b3dac) | (![image](https://github.com/user-attachments/assets/2a3fbb16-f86f-4ebc-8456-cbb221d63329) |
+| ![image](https://github.com/user-attachments/assets/2255ff7e-07fb-4253-8867-34eda4e5932c) | ![image](https://github.com/user-attachments/assets/57bc692b-ea78-44ea-b425-c845e18b3dac) | ![image](https://github.com/user-attachments/assets/2a3fbb16-f86f-4ebc-8456-cbb221d63329) |
 
 ---
 
